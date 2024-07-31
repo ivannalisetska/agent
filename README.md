@@ -12,11 +12,6 @@ and uploading the job's artifacts.
 Full documentation is available at
 [buildkite.com/docs/agent](https://buildkite.com/docs/agent).
 
-```text
-$ buildkite-agent --help
-Usage:
-
-  buildkite-agent <command> [options...]
 
 Available commands are:
 
