@@ -203,8 +203,3 @@ See [./CONTRIBUTING.md](./CONTRIBUTING.md)
 Many thanks to
 [our fine contributors](https://github.com/buildkite/agent/graphs/contributors)!
 You're all amazing, and we greatly appreciate your input ❤️
-
-## Copyright
-
-Copyright (c) 2014-2023 Buildkite Pty Ltd.
-See [LICENSE](./LICENSE.txt) for details.
